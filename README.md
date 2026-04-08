@@ -7,4 +7,4 @@
 - [Pay_My_Buddy](https://github.com/lagourou/Pay_My_Buddy.git) - Application de transfert d'argent entre amis
 - [OC_PROJECT_7](https://github.com/lagourou/OC_PROJECT_7.git) - Spring Security : Authentification et Sécurisation d’une API Java
 - [OC_PROJECT_8](https://github.com/lagourou/OC_PROJECT_8.git) - Amélioration d’une Application Java avec CI/CD et Docker
-- [OC_PROJECT_9](https://github.com/lagourou/OC_PROJECT_9.git) - Développement d’une Architecture Microservices avec Spring et MongoDB
+- [OC_PROJECT_9](https://github.com/lagourou/OC_PROJECT_9.git) - Développement d’une Architecture Microservices avec Spring Boot, MySQL, MongoDB et Angular
